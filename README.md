@@ -1,5 +1,6 @@
 # Conway's Game Of Life Project
-Luke Ward,      Gareth Morrill
+Luke Ward, Gareth Morrill
+
 Rules :
 1) Any live cell with fewer than two live neighbors dies, as if by underpopulation.
 2) Any live cell with two or three live neighbors lives on to the next generation.
