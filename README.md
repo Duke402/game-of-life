@@ -1,2 +1,2 @@
-# Conway's Game Of Life Project 1A
+# Conway's Game Of Life Project
 Luke Ward      Gareth Morrill
